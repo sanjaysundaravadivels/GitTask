@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dhawan
 Rabada 
 Baristow
@@ -11,3 +12,8 @@ Virat
 Maxi
 ABD
 Dhawan
+=======
+Pant 
+Iyer
+Warner
+>>>>>>> delhi
