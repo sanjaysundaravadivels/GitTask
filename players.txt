@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Dhawan
 Rabada 
 Baristow
@@ -7,3 +8,8 @@ MSD
 Jaddu
 Bravo
 >>>>>>> csk
+=======
+Rohit
+Bumrah
+Pollard
+>>>>>>> mi
